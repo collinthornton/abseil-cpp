@@ -1,0 +1,9 @@
+<package format="2">
+  <name>absl</name>
+  <version>1.2.4</version>
+  <description>
+  This package provides the abseil-cpp library.
+  </description>
+  <maintainer email="collin.thornton@swri.org">Collin Thornton</maintainer>
+  <license>apache-v2</license>
+</package>
